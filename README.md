@@ -25,7 +25,7 @@ The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amaz
  - Text - text of the review
 
 ## Objective:
-Visualise a given food review using TSNE.
+Visualise food reviews using TSNE.
 
 ## Prerequisites
 You need to have installed following softwares and libraries before running this project.
